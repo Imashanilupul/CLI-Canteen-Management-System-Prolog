@@ -46,7 +46,7 @@ swipl
 At the Prolog prompt, load the rules:
 
 ```prolog
-?- consult('rules.pl').
+?- consult('chatbot.pl').
 ```
 
 ### 4. Start the Chatbot
