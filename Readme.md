@@ -29,8 +29,8 @@ This is a **command-line based Canteen Management System** written in **Prolog**
 ### 1. Clone the Repository
 
 ```bash
-[git clone [https://github.com/yourusername/cli-canteen-system.git](https://github.com/Imashanilupul/CLI-Canteen-Management-System-Prolog.git)
-cd cli-canteen-system](https://github.com/Imashanilupul/CLI-Canteen-Management-System-Prolog.git)
+[git clone https://github.com/Imashanilupul/CLI-Canteen-Management-System-Prolog.git
+
 ```
 
 ### 2. Open Prolog Environment
